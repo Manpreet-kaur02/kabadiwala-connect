@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/01-landing.png" alt="Kabadiwala Connect landing page" width="900" />
+  <img src="docs/screenshots/02-role-selector.png" alt="Kabadiwala Connect landing page" width="900" />
 </p>
 
 > **Kabadiwala Connect** is a hackathon prototype that connects e-waste sellers, informal collectors, and authorized recyclers through a transparent digital workflow — from scrap submission and price estimation to handover, receipt, payment, and earnings tracking.
@@ -401,3 +401,4 @@ This keeps the demo focused on the **informal-to-formal recycling bridge** rathe
   <strong>♻️ From Scrap to Sustainable Value</strong><br/>
   <sub>Kabadiwala Connect • Interactive Prototype</sub>
 </p>
+
