@@ -1,0 +1,6 @@
+{
+  "name": "Kabadiwala Connect",
+  "description": "AI-powered e-waste recycling marketplace bringing informal scrap collectors into the formal recycling chain.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

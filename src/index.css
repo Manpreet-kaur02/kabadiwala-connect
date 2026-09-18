@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------
+   Accessibility: High-contrast mode toggled from Settings.
+   Applied on <html> as .kc-high-contrast by App.tsx.
+   Darkens body text and strengthens borders so the UI stays readable
+   on cheap screens in direct sunlight.
+------------------------------------------------------------------ */
+.kc-high-contrast body {
+  color: #020617;
+}
+
+.kc-high-contrast .text-slate-400,
+.kc-high-contrast .text-slate-500 {
+  color: #334155 !important;
+}
+
+.kc-high-contrast .text-slate-600,
+.kc-high-contrast .text-slate-700 {
+  color: #0f172a !important;
+}
+
+.kc-high-contrast .border-slate-100,
+.kc-high-contrast .border-slate-200 {
+  border-color: #94a3b8 !important;
+}
+
+.kc-high-contrast .shadow-2xs,
+.kc-high-contrast .shadow-xs {
+  box-shadow: 0 1px 3px rgb(15 23 42 / 0.25) !important;
+}
